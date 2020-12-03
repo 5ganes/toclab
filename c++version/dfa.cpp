@@ -7,7 +7,7 @@
 // checking whether current state is final state or  not, for loop can be used.
 #include <iostream>
 using namespace std;
-bool isAccepted(int inputString[], int currentState, int finalState, int dfa[][2]);
+bool isAccepted();
 
 int currentState = 0;
 int finalState = 2;
