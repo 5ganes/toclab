@@ -1,4 +1,4 @@
-// This is generic program written in PHP for inplementation of any NFA. Only structure of NFA with 
+// This is generic program written in C++ for inplementation of any NFA. Only structure of NFA with 
 // final state should be changed while processing multiple NFAs with multiple input strings.
 // nfa that accepts strings containing 000 as substring
 // here -1 in index 0 = no transition
